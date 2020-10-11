@@ -1,0 +1,5 @@
+simbolo,aspecto,alteracion,tecla,descripcion
+$,largo,1,g,Aumenta el largo de la serpiente en 1
+%,largo,-2,h,Disminuye el largo de la serpiente en 2
+~,velocidad,0.15,j,Disminuye la velocidad de la serpiente
+!,velocidad,-0.15,k,Aumenta la velocidad de la serpiente
